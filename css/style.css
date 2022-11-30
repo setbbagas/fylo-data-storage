@@ -98,6 +98,7 @@ body {
     font-family: var(--ff);
     font-weight: var(--fw-regular);
     font-size: var(--fs-base);
+    color: var(--clr-neutral-200);
     background-color: var(--clr-neutral-900);
     background-image: url(/images/bg-desktop.png);
     background-repeat: no-repeat;
@@ -105,7 +106,7 @@ body {
     background-position: center bottom;
 
     /* for this project only */
-    /* display: grid;
+    display: grid;
     place-content: center;
-    margin: 1rem; */
+    margin: 1rem;
 }
